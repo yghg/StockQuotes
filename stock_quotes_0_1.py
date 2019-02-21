@@ -2,7 +2,7 @@
 
 #Author:	Yoan Hermida
 #Date:		2016-09-13
-#Purpose:	Scrapes Google Finance for price of major indexes and prints them.
+#Purpose:	Scrapes Google Finance for points of major indexes and prints them.
 
 from urllib import urlopen
 from bs4 import BeautifulSoup
