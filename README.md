@@ -1,2 +1,2 @@
 # StockQuotes
-Scrapes Google Finance for price of major indexes and prints them.
+Scrapes Google Finance for points of major indexes and prints them.
